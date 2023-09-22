@@ -30,3 +30,6 @@ The Windows XP Restoration Project (TWXRP) is an initiative to make Windows XP a
 ###### (Not implemented yet)
 #### Escargot Messenger (MSN/WLM Messenger) 
 ###### https://escargot.chat/download/
+
+# Follow Us On Twitter! @XPRestoreProj 
+## x.com/xprestoreproj
