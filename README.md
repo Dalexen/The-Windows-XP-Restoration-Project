@@ -32,4 +32,4 @@ The Windows XP Restoration Project (TWXRP) is an initiative to make Windows XP a
 ###### https://escargot.chat/download/
 
 # Follow Us On Twitter! @XPRestoreProj 
-## x.com/xprestoreproj
+## https://x.com/xprestoreproj/
