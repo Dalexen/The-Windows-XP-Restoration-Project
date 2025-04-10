@@ -1,6 +1,6 @@
 # The Windows XP Restoration Project
-### What is TWXRP?
-The Windows XP Restoration Project (TWXRP) is an initiative to make Windows XP as secure as possible to use in 2023. While it may never be as safe as it once was, TWXRP aims to mitigate risks by leveraging resources from various Sources. The project is essentially a curated list of software that users can download to improve their Windows eXPerience!
+### What is The Windows XP Restoration Project?
+The Windows XP Restoration Project (TWXRP) is an initiative to make Windows XP as secure as possible to use in 2025. While it may never be as safe as it once was, The Windows XP Restoration Project aims to mitigate risks by leveraging resources from various Sources. The project is essentially a curated list of software that users can download to improve their Windows eXPerience!
 ## Sources
 #### XPConfirmationIDKeygen / XPKeygen
 ###### (Phone Activation) https://github.com/Endermanch/XPConfirmationIDKeygen/tree/master
@@ -41,6 +41,3 @@ The Windows XP Restoration Project (TWXRP) is an initiative to make Windows XP a
 ##### Old Download Link: https://google.com/toolbar/
 #### Escargot Messenger (MSN/WLM Messenger) 
 ###### https://escargot.chat/download/
-
-# Follow Us On Twitter! @XPRestoreProj 
-## https://x.com/xprestoreproj/
