@@ -37,7 +37,7 @@ The Windows XP Restoration Project (TWXRP) is an initiative to make Windows XP a
 ###### (Not implemented yet)
 
 #### Google Toolbar
-###### (Implemented - Original Source Pending)
+###### https://toolbar.google.com/
 ##### Old Download Link: https://google.com/toolbar/
 #### Escargot Messenger (MSN/WLM Messenger) 
 ###### https://escargot.chat/download/
